@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480620402177",
+    "project_id": "testcloudstoragefirebase",
+    "storage_bucket": "testcloudstoragefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480620402177:android:2bd1a1a4860d0f21ba1200",
+        "android_client_info": {
+          "package_name": "com.example.testcloudstoragefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxWOYWd0_oOWLxm7zr1SjEw6pZ1H8iTgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
